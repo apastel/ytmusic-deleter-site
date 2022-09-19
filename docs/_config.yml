@@ -19,15 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: YTMusic Deleter
-email: your-email@example.com
+email: info@ytmusicdeleter.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  YTMusic Deleter is a desktop app that lets you easily perform batch delete operations on your YTMusic Library.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ytmusicdeleter.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  apastel
 
 # Build settings
 theme: minima
